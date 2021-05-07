@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: anime-images-api
+Version: 0.0.1
+Summary: a wrapper for the anime images api
+Home-page: https://discord.com/invite/WhnmkwgtGb
+Author: skelly386#1410
+Author-email: skellymclane@gmail.com
+License: MIT
+Description: # Anime Images API
+        
+        <p>
+        A Wrapper for the Anime image API
+        </p>
+        <hr/>
+        
+        
+        # Change Log
+        
+        0.0.1 (5/6/2021): First Release
+        
+Keywords: python,image,anime,api,wrapper,py
+Platform: UNKNOWN
+Classifier: Development Status :: 3
+Classifier: Intended Audience :: Anime
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
